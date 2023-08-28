@@ -82,9 +82,9 @@ const Progress = () => {
       <section id="skills">
         <div className="progress-container">
           <div className="progress-title">
-            <h2>My Skills Progress so far</h2>
+            <h2>Our skills so far</h2>
 
-            <h3>My Skills</h3>
+            <h3>Our Skills</h3>
           </div>
           <div className="progress-row2">
             <div className="lang">

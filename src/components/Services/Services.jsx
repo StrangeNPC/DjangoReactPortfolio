@@ -18,7 +18,7 @@ const Services = () => {
       <section id="services">
         <div className="service-container">
           <div className="service-title">
-            <h2>What Service i Offer you</h2>
+            <h2>What Service we Offer you!</h2>
 
             <h3>Services</h3>
           </div>

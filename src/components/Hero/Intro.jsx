@@ -51,7 +51,7 @@ const Intro = () => {
                       data-aos="fade-down"
                       data-aos-duration="1600"
                     >
-                      Hey! I Am
+                      Hey! We Are
                     </h3>
                     <h3
                       className="job  text-animate"
@@ -87,7 +87,7 @@ const Intro = () => {
                     data-aos="fade-up"
                     data-aos-duration="1800"
                   >
-                    <span>Follow Me:</span>
+                    {/*<span>Follow Me:</span>
                     <ul>
                       <li>
                         {contacts1Details &&
@@ -103,7 +103,7 @@ const Intro = () => {
                             </a>
                           ))}
                       </li>
-                    </ul>
+                          </ul> */}
                   </div>
                 </div>
                 <div

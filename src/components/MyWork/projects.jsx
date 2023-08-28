@@ -55,9 +55,9 @@ const Projects = () => {
   return (
     <div className="mywork " id="work">
       <div className="mywork-title">
-        <h2>Check Out My Reacet Projects</h2>
+        <h2>Check Out our Projects</h2>
 
-        <h3>My Work</h3>
+        <h3>Our Work</h3>
       </div>
       <div className="project-row">
         {projectsDetails?.length && (
