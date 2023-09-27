@@ -15,10 +15,10 @@ const Navbar = () => {
             <div className="col-xl-12 d-flex align-items-center lefty">
               <h5 className="ld-flex mr-auto devman">
                 <img
-                  src="https://code.google.com/images/developers.png"
+                  src="https://drive.google.com/uc?id=1ZCfB5aUTdlKxxt6iWitBCRnx7I04RSNs"
                   alt=""
                 />
-                Procurement Policy & Analytics <span className="blink"> _</span>
+                Data Analytics & Artificial Intelligence <span className="blink"> _</span>
               </h5>
               <nav className="nav-menu  mainMenu">
                 <ul>
