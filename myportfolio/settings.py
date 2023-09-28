@@ -127,13 +127,16 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 # CORS_ALLOWED_ORIGINS = [
 
 #     "http://localhost:3000",
-#     "https://jimmywaweru.herokuapp.com",
+#     "",
 
 # ]
 CORS_ORIGIN_ALLOW_ALL = True
 
 STATICFILES_DIRS = [
+    os.path.join(BASE_DIR, 'build'),
     os.path.join(BASE_DIR, 'build/static'),
+    os.path.join(os.path.join(BASE_DIR, ), 'build', 'static'),
+    os.path.join(os.path.join(BASE_DIR, ), 'build'),
 ]
 
 # STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
